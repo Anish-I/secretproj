@@ -1,0 +1,88 @@
+[25024:30976:1001/122245.020:WARNING:chrome_main_delegate.cc(747)] This is Chrome version 129.0.6668.70 (not a warning)
+[25024:30976:1001/122245.059:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[29080:6496:1001/122245.128:INFO:cpu_info.cc(53)] Available number of cores: 32
+[33940:23876:1001/122245.128:INFO:cpu_info.cc(53)] Available number of cores: 32
+[17888:50624:1001/122245.168:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[16392:26684:1001/122245.183:INFO:cpu_info.cc(53)] Available number of cores: 32
+[25024:30976:1001/122245.195:INFO:CONSOLE(14)] "Uncaught TypeError: Invalid invocation", source: chrome-extension://ihmcpckgnolpkfnfcjkidpooifpdnjgo/background.js (14)
+[42668:46252:1001/122245.279:INFO:cpu_info.cc(53)] Available number of cores: 32
+[7660:32604:1001/122245.467:INFO:cpu_info.cc(53)] Available number of cores: 32
+[25024:30976:1001/122245.554:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://www.instagram.com/ (0)
+[17888:50624:1001/122245.560:ERROR:shared_image_manager.cc(248)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[31820:42024:1001/122245.590:INFO:cpu_info.cc(53)] Available number of cores: 32
+[25024:30976:1001/122245.870:INFO:CONSOLE(236)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (236)
+[25024:30976:1001/122245.870:INFO:CONSOLE(236)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (236)
+[25024:30976:1001/122245.870:INFO:CONSOLE(236)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (236)
+[25024:30976:1001/122245.870:INFO:CONSOLE(236)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (236)
+[25024:30976:1001/122246.067:INFO:CONSOLE(71)] "ErrorUtils caught an error:
+
+Unable to parse uri "/ajax/bulk-route-definitions/" response. Error: Unexpected token '<', "<!DOCTYPE "... is not valid JSON, response: <!DOCTYPE html><html class="_9dls _ar44" lang="en" dir="ltr"><head><link data-default-icon="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" rel="icon" sizes="192x192" href="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" /><meta name="bingbot" content="noarchive" /><meta name="robots" content="noarchive, noimageindex" /><meta charset="utf-8" /><meta name="apple-mobile-web-app-status-bar-style" content="default" /><meta name="mobile-web-app-capable" content="yes" /><meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, viewport-fit=cover" /><meta name="theme-color" content="#ffffff" /><link rel="apple-touch-icon" sizes="76x76" href="https://static.cdninstagram.com/rsrc.php/v3/yR/r/lam-fZmwmvn.png" /><link rel="apple-touch-icon" sizes="120x120" href="https://static.cdninstagram.com/rsrc.php/v3/ys/r/aM-g435MtEX.png" /><link rel="apple-touch-icon" sizes="152x152" href="https://static.cdninstagr
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs.", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (71)
+[25024:30976:1001/122246.101:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.instagram.com/ (0)
+[34120:41752:1001/122247.394:INFO:cpu_info.cc(53)] Available number of cores: 32
+[25024:30976:1001/122247.944:INFO:CONSOLE(236)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (236)
+[25024:30976:1001/122247.944:INFO:CONSOLE(236)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (236)
+[25024:30976:1001/122247.944:INFO:CONSOLE(236)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (236)
+[25024:30976:1001/122247.944:INFO:CONSOLE(236)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (236)
+[25024:30976:1001/122248.161:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://www.instagram.com/common/referer_frame.php?no_lower=true&cb=1 (0)
+[25024:30976:1001/122248.163:INFO:CONSOLE(695)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://static.cdninstagram.com/rsrc.php/v3i7gf4/yS/l/rt/fA56LYN3xYEzvCcjocml7ulifBIKD2gcWTj36QX-UGtXeFLgKRUJcTsWEyt5QK9BmZb7h8VnUFrKX3kk2AMbomix3I4xAPDE3cLYE3I7AItAUqGfz1U2qIeB6s0ZdrdnugiVbUUjTi2nNFQJFCvsFcZAIKM-sVcfnLgdQ54XMed-t66n.js (695)
+[25024:30976:1001/122248.163:INFO:CONSOLE(695)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://static.cdninstagram.com/rsrc.php/v3i7gf4/yS/l/rt/fA56LYN3xYEzvCcjocml7ulifBIKD2gcWTj36QX-UGtXeFLgKRUJcTsWEyt5QK9BmZb7h8VnUFrKX3kk2AMbomix3I4xAPDE3cLYE3I7AItAUqGfz1U2qIeB6s0ZdrdnugiVbUUjTi2nNFQJFCvsFcZAIKM-sVcfnLgdQ54XMed-t66n.js (695)
+[25024:30976:1001/122248.230:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://www.instagram.com/paid_ads/generete_pixels/? (0)
+[25024:30976:1001/122248.231:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: about:blank (0)
+[11436:8592:1001/122248.287:INFO:cpu_info.cc(53)] Available number of cores: 32
+[33748:23424:1001/122248.391:INFO:cpu_info.cc(53)] Available number of cores: 32
+[31964:24532:1001/122248.601:INFO:cpu_info.cc(53)] Available number of cores: 32
+[25024:30976:1001/122248.686:INFO:CONSOLE(0)] "In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled", source: https://td.doubleclick.net/td/rul/858885276?random=1727799768555&cv=11&fst=1727799768555&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be49u0v9193169939za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101671035~101686685~101747727&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.fbsbx.com%2Fpaid_ads_pixel%2Fiframe%2F%3Ftag_ids%255B0%255D%3DAW-858885276%26labels%255B0%255D%3DqGVACPj3of0DEJyZxpkD%26funnel_id%3D00793b95-5552-48d0-8647-e2490eb16fcf%26caller%3Dig_paid_ads%26sem_pixel_category%3D32%26is_remarketing%26__cci%3DFQAREhISFQAZ9UQEBgoMDhASFhgaHB4gIiYoKiwwMjY4OjyoAkJEZm5wdnyOAZABkgGWAZgBmgGiAaYCqAGsAa4BsAGyAbQBugG%252BAcABwgHGAcgBygHMAdAB1AHYAeQB6AH4AfoB%252FAGKAowCjgKQApgCogIYEXd3dy5pbnN0YWdyYW0uY29tAA%253D%253D.ARbC0ssa514QOvjMWPEEuahWjUEjjayXF1z8mBnNeMndQPUs&ref=https%3A%2F%2Fwww.instagram.com%2F&top=https%3A%2F%2Fwww.instagram.com%2F&label=qGVACPj3of0DEJyZxpkD&hn=www.googleadservices.com&frm=2&value=1&currency_code=USD&npa=0&pscdl=noapi&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B129.0.6668.70%7CNot%253DA%253FBrand%3B8.0.0.0%7CChromium%3B129.0.6668.70&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&fledge=1&data=event%3Dconversion (0)
+[25024:30976:1001/122250.113:INFO:CONSOLE(71)] "ErrorUtils caught an error:
+
+Cannot read properties of undefined (reading 'then') [Caught in: Shared Worker uncaught error.]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs.", source: https://static.cdninstagram.com/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (71)
+[25024:30976:1001/122250.114:INFO:CONSOLE(114)] "ErrorUtils caught an error:
+
+Cannot read properties of undefined (reading 'then')
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs.", source: https://static.cdninstagram.com/rsrc.php/v3ihPW4/y8/l/rt/8PCyw8LaAEm.js (114)
+[25024:30976:1001/122250.196:ERROR:device_event_log_impl.cc(201)] [12:22:50.195] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[31252:46984:1001/122251.149:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 5
+[2804:52016:1001/122251.169:INFO:cpu_info.cc(53)] Available number of cores: 32
+[31252:46984:1001/122251.296:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 9
+[25024:30976:1001/122251.413:INFO:CONSOLE(232)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/tN6JDuFHMcs.js (232)
+[31252:46984:1001/122255.099:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 21
+[25024:30976:1001/122255.413:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5157
+[25024:30976:1001/122255.480:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
+[25024:30976:1001/122255.762:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:883094
+[25024:30976:1001/122255.877:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[25024:30976:1001/122256.105:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45164
+[17888:12300:1001/122257.190:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(130,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[31252:46984:1001/122257.194:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 25
+[25024:30976:1001/122257.386:WARNING:download_manager_impl.cc(701)] A download with the same GUID already exists, the new request is ignored.
+[25024:30976:1001/122257.422:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[25024:30976:1001/122257.526:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747170
+[25024:30976:1001/122257.826:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[31252:46984:1001/122258.204:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 29
+[25024:30976:1001/122300.174:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:68665978
+[25024:30976:1001/122301.741:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:7794
+[25024:30976:1001/122302.475:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:118577
+[31252:46984:1001/122312.869:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 37
+[7660:32604:1001/122342.577:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[31252:46984:1001/122342.596:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 45
+[17888:12300:1001/122342.950:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(137,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[31252:46984:1001/122345.837:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 53
+[31252:46984:1001/122346.600:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 61
+[31252:46984:1001/122408.252:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 69
+[31252:36412:1001/122413.946:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[31252:36412:1001/122413.946:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.

@@ -1,0 +1,8 @@
+{
+   "chrome_extension_description": {
+      "message": "Growman은 팔로워/팔로잉, 위치 및 해시태그를 기반으로 IG에서 이메일을 추출할 수 있습니다."
+   },
+   "chrome_extension_name": {
+      "message": "Growman: IG Email Extractor"
+   }
+}

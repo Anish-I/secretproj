@@ -1,0 +1,8 @@
+{
+   "chrome_extension_description": {
+      "message": "Growmanは、フォロワー/フォロー、場所、ハッシュタグに基づいてIGからメールアドレスを抽出することができます。"
+   },
+   "chrome_extension_name": {
+      "message": "Growman: IG Email Extractor"
+   }
+}

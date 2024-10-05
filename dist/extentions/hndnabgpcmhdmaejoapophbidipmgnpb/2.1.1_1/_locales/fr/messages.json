@@ -1,0 +1,8 @@
+{
+   "chrome_extension_description": {
+      "message": "Growman vous permet d'extraire des adresses e-mail d'IG en fonction des abonnés/suivis, des emplacements et des hashtags."
+   },
+   "chrome_extension_name": {
+      "message": "Growman: IG Email Extractor"
+   }
+}

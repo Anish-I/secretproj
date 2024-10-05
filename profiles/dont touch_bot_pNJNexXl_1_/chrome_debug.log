@@ -1,0 +1,83 @@
+[7820:15152:0724/194320.059:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 126.0.6478.183 (not a warning)
+[7820:15152:0724/194320.155:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[7820:15152:0724/194320.193:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[7820:15152:0724/194320.644:INFO:CONSOLE(14)] "Uncaught TypeError: Invalid invocation", source: chrome-extension://gnlknfplniaiphclfpcmhajchioaagcc/background.js (14)
+[7820:15152:0724/194321.209:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[7820:15152:0724/194321.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[7820:15152:0724/194321.211:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://www.instagram.com/ (0)
+[17788:5100:0724/194322.470:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[7820:15152:0724/194322.567:INFO:CONSOLE(234)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194322.567:INFO:CONSOLE(234)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194322.567:INFO:CONSOLE(234)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194322.567:INFO:CONSOLE(234)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194324.288:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[7820:15152:0724/194324.288:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[7820:15152:0724/194325.814:INFO:CONSOLE(484)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v3ipaq4/yP/l/rt/6kOXFtDAmpcIGyh6FUuJwYAdpivabtIke9QFhyjM8_oW-ojEg-t0cfYzMZoiXQycTW1fRRwntrLN8wzIYqs6GFlnHbSIAAhy5BFYy-uyzwiFps_FWgds-LFlPvQmvbHeOq0LG7GuaNcvKpxfC1AgeIt8zcD1RrhPv502-L-fFskbVCTe.js?_nc_x=Ij3Wp8lg5Kz (484)
+[7820:15152:0724/194325.827:INFO:CONSOLE(294)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v3i7Gh4/y-/l/rt/zBSJ35io3IOcbMizYS8Jm7JubAyeMcA4PtMZhf_VuVMwWoyITb75gksLtjNKaCdfF2Alu-6y7wbqfxVtwjue8AGGh_IokEv-HXC5sx9Xd9ch3O8YXAd2Gh5Ps8ABOHqqO7aYlUx3S4ZkNk47whOsNc2ML6FL8VX9ha2Kbi-KBqsTo88imEFrHV7fty6ApHkfso_gZonHWZXio_Zl2IwPkc3ISw-BbIXcG42UbR5s89_Mgvt79KDpuFFT3Hd4hAwwUevswYBdAEp50UE0xAkgqWwBPsdkJoD1Jrj0GZnF3E2T3vAJPJjwfIH-Wm-GhJfLc6t4z68C7E.js?_nc_x=Ij3Wp8lg5Kz (294)
+[8964:8288:0724/194325.889:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[8964:8288:0724/194326.253:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[7820:15152:0724/194326.597:INFO:CONSOLE(234)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194326.597:INFO:CONSOLE(234)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194326.597:INFO:CONSOLE(234)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194326.597:INFO:CONSOLE(234)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194327.361:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[7820:15152:0724/194327.361:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[7820:15152:0724/194327.361:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://www.instagram.com/common/referer_frame.php?no_lower=true&cb=1 (0)
+[7820:15152:0724/194327.398:INFO:CONSOLE(224)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://static.cdninstagram.com/rsrc.php/v3i4Jk4/yv/l/rt/owicw_-FnQDz_5LT56m54RZZoGB1eesj0n8ReVJO9XfpaQq9Nrv7ew6QqqrBZTKSIM4x6TbgFNqdSaSWd1Tysq_mqkaf6dE6uJd3Z3UuTOXcWEzt7Bae2P_EXNZeC1XL6_SMfnUGA_z1rUzr1wl-_x9H7D-cz6Gtl2KwukxmHu37anmOWyosPJkQjvCD31a1uBuhiFb1ANahtmp1CTveIv0d_22b6FX6W_V-V5GgDorTZybKGK.js?_nc_x=Ij3Wp8lg5Kz (224)
+[7820:15152:0724/194327.399:INFO:CONSOLE(224)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://static.cdninstagram.com/rsrc.php/v3i4Jk4/yv/l/rt/owicw_-FnQDz_5LT56m54RZZoGB1eesj0n8ReVJO9XfpaQq9Nrv7ew6QqqrBZTKSIM4x6TbgFNqdSaSWd1Tysq_mqkaf6dE6uJd3Z3UuTOXcWEzt7Bae2P_EXNZeC1XL6_SMfnUGA_z1rUzr1wl-_x9H7D-cz6Gtl2KwukxmHu37anmOWyosPJkQjvCD31a1uBuhiFb1ANahtmp1CTveIv0d_22b6FX6W_V-V5GgDorTZybKGK.js?_nc_x=Ij3Wp8lg5Kz (224)
+[7820:15152:0724/194328.178:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[7820:15152:0724/194328.179:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[7820:15152:0724/194328.179:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://www.instagram.com/paid_ads/generete_pixels/? (0)
+[7820:15152:0724/194328.187:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: about:blank (0)
+[7820:15152:0724/194328.986:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[7820:15152:0724/194328.986:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[7820:15152:0724/194332.716:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5155
+[7820:15152:0724/194333.199:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
+[7820:15152:0724/194333.916:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:883094
+[7820:15152:0724/194334.914:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[7820:15152:0724/194335.794:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[7820:15152:0724/194335.794:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[7820:15152:0724/194336.274:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747170
+[7820:15152:0724/194336.429:INFO:CONSOLE(230)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (230)
+[7820:15152:0724/194336.523:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[7820:15152:0724/194337.164:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45150
+[7820:15152:0724/194337.669:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:3844
+[7820:15152:0724/194340.382:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[7820:15152:0724/194342.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[7820:15152:0724/194342.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[7820:15152:0724/194344.275:INFO:CONSOLE(234)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194344.275:INFO:CONSOLE(234)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194344.275:INFO:CONSOLE(234)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194344.275:INFO:CONSOLE(234)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[7820:15152:0724/194347.567:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[7820:15152:0724/194347.567:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[7820:15152:0724/194348.144:INFO:CONSOLE(230)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (230)
+[8964:20692:0724/194429.163:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(130,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[8964:8288:0724/194432.387:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[8964:20692:0724/194436.788:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(138,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[7820:16904:0724/194440.142:WARNING:page_discarding_helper.cc(131)] Discarding multiple pages with target (kb): 0
+[5064:3692:0724/194510.138:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[5064:3692:0724/194510.138:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[7820:15152:0724/194510.385:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

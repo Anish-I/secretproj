@@ -1,0 +1,8 @@
+{
+   "chrome_extension_description": {
+      "message": "Growman ermöglicht es Ihnen, E-Mails basierend auf Followern/Followings, Standorten und Hashtags aus IG zu extrahieren."
+   },
+   "chrome_extension_name": {
+      "message": "Growman: IG Email Extractor"
+   }
+}

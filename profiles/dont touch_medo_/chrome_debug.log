@@ -1,0 +1,17 @@
+[15820:11948:0913/012046.589:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.137 (not a warning)
+[15820:11948:0913/012046.648:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[15820:11948:0913/012047.064:INFO:CONSOLE(14)] "Uncaught TypeError: Invalid invocation", source: chrome-extension://bghkfolncmghiakbbmahbdiegajdmddj/background.js (14)
+[15820:11948:0913/012057.417:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5154
+[15820:11948:0913/012057.513:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
+[12972:9484:0913/012057.816:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 25
+[15820:11948:0913/012058.338:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[15820:11948:0913/012058.779:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45156
+[15820:11948:0913/012059.162:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:883094
+[15820:11948:0913/012059.826:WARNING:download_manager_impl.cc(701)] A download with the same GUID already exists, the new request is ignored.
+[15820:11948:0913/012100.035:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[15820:11948:0913/012100.066:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747169
+[15820:11948:0913/012100.286:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:3844
+[15820:11948:0913/012100.345:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:7794
+[15820:11948:0913/012102.528:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[15820:11948:0913/012112.379:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 1, file size:0
+[15820:11948:0913/012112.522:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
